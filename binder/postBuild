@@ -1,3 +1,0 @@
-#!/bin/bash
-set -ex
-export PATH=/Library/TeX/texbin:$PATH

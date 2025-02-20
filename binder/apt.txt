@@ -1,7 +1,0 @@
---no-install-recommends pandoc
---no-install-recommends ghostscript
---no-install-recommends texlive-fonts-recommended
---no-install-recommends texlive-generic-recommended
---no-install-recommends texlive-latex-base
---no-install-recommends texlive-latex-extra
---no-install-recommends texlive-latex-recommended
