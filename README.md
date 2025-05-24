@@ -1,6 +1,6 @@
 # Modelos Biomatemáticos I
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mijailo/bach_mate/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mijailo/modelos_biomatematicos/master)
 
 Este repositorio tiene la finalidad de compartir con la comunidad de profesores y alumnos de Modelos Biomatemáticos I de la Facultad de Ciencias, de la [Universidad Nacional Autónoma de México](https://www.unam.mx/) (y de todo el mundo xd), algunos recursos didácticos:
 
